@@ -1,0 +1,12 @@
+{
+  "id": "theme-classic-grey",
+  "name": "Classic Grey",
+  "version": "1.0.0",
+  "description": "Mid-grey interface in the classic desktop photo-editor range. Neutral accent, no brand colours.",
+  "author": "OPGERUIMD97",
+  "main": "index.js",
+  "categories": ["Themes"],
+  "keywords": ["theme", "grey", "gray", "neutral"],
+  "license": "MIT",
+  "repository": "OPGERUIMD97/safelight-classic-grey"
+}
