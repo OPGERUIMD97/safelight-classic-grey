@@ -1,6 +1,6 @@
 # Classic Grey Theme
 
-A mid-grey theme for [Safelight](https://github.com/anthonyreimche/SafeLight). Neutral accent, no brand colours. Lighter than Graphite (`#242424`–`#3a3a3a`).
+A mid-grey theme for [Safelight](https://github.com/anthonyreimche/SafeLight). Neutral accent, no brand colours.
 
 ## Install
 
@@ -37,9 +37,14 @@ Then apply it via **View ▸ Theme**. No build step; `index.js` is the bundle.
 - The top bar, the panel rails and the Library toolbar share `--color-surface-1`, so they are `#505050`.
 - Outer borders are `#000000`.
 - `--font-mono` is left unset, so **Preferences ▸ Interface ▸ Interface font** keeps working (in Safelight 3.x that variable is the interface font).
+- Lighter than Graphite (`#242424`–`#3a3a3a`).
 - Stars, flags and colour labels keep their own colours. The accent itself is grey.
 
 ## Changelog
+
+### 1.0.2
+
+- The description matches the README.
 
 ### 1.0.1
 

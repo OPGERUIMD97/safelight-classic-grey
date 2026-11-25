@@ -1,8 +1,8 @@
 {
   "id": "theme-classic-grey",
   "name": "Classic Grey Theme",
-  "version": "1.0.1",
-  "description": "Mid-grey theme. Neutral accent, no brand colours.",
+  "version": "1.0.2",
+  "description": "Mid-grey theme for Safelight. Neutral accent, no brand colours.",
   "author": "OPGERUIMD97",
   "main": "index.js",
   "categories": ["Themes"],
