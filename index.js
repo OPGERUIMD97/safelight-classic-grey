@@ -1,7 +1,6 @@
-// Classic Grey — mid-grey theme for Safelight.
+// Classic Grey Theme — mid-grey theme for Safelight.
 //
-// Sampled from a classic desktop photo editor and mapped onto the tokens
-// Safelight actually paints with (docs/dev/api/components.md → Theming tokens).
+// Mapped onto the tokens Safelight paints with (docs/dev/api/components.md → Theming tokens).
 // Several screenshot roles share one token; see the README for which is which.
 //
 //   grid background     #5f5f5f   --color-surface-0
@@ -15,7 +14,7 @@
 export function activate(api) {
   api.registerTheme({
     id: "theme-classic-grey.theme",
-    name: "Classic Grey",
+    name: "Classic Grey Theme",
     colorScheme: "dark",
     vars: {
       // Main column, including the Library grid.

@@ -1,8 +1,8 @@
 {
   "id": "theme-classic-grey",
-  "name": "Classic Grey",
-  "version": "1.0.0",
-  "description": "Mid-grey interface in the classic desktop photo-editor range. Neutral accent, no brand colours.",
+  "name": "Classic Grey Theme",
+  "version": "1.0.1",
+  "description": "Mid-grey theme. Neutral accent, no brand colours.",
   "author": "OPGERUIMD97",
   "main": "index.js",
   "categories": ["Themes"],
